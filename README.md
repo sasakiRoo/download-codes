@@ -1,7 +1,9 @@
 # download source code
 
-#### download source code ucapan Idulfitri
+#### download dan pakai source code ucapan Idulfitri
+> Kalian bisa langsung pakai dengan mengklik kemudian copy link dibawah
 * [Demo](https://relaxed-palmier-dcc580.netlify.app/)
+> Untuk mengkustomisasi atau merubah dengan sesuai keinginan kalian, download
 * [Download link](https://karyakarsa.com/sasakiroo/kartu-ucapan-lebaran-online-berbasis-web)
 #### download source code special ramadan
 * [Ramadan Verses & Anniversary App ❤](https://karyakarsa.com/sasakiroo/ramadan-verses-source-code)
