@@ -4,8 +4,8 @@
 > Kalian bisa langsung pakai dengan mengklik kemudian copy link dibawah
 * [Demo](https://relaxed-palmier-dcc580.netlify.app/)
 > Untuk mengkustomisasi atau merubah dengan sesuai keinginan kalian, download
-* [Download link](https://karyakarsa.com/sasakiroo/kartu-ucapan-lebaran-online-berbasis-web)
-#### download source code special ramadan
+* [Download link](https://safefileku.com/download/B8Cqx38BweggqX0)
+#### download source code special ramadan 
 * [Ramadan Verses & Anniversary App ❤](https://karyakarsa.com/sasakiroo/ramadan-verses-source-code)
 ### lainnya
 * [Dark Mode website 🌙](https://safefileku.com/download/7Vmcfhc929CqxD1)
